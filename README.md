@@ -4,11 +4,17 @@
 # Site Jean-Laurent Assafi
 
 
-Technologie : Angular - Bootstrap 
+####Technologie :#### 
 
-Hébergement : Google App Engine (suffixe url en appspot.com)
+Angular - Bootstrap 
 
-Suivi du trafic : Google Console - Google Cloud Platform - Google Analytics
+#####Hébergement : #####
+
+Google App Engine (suffixe url en appspot.com)
+
+#####Suivi du trafic : #####
+
+Google Console - Google Cloud Platform - Google Analytics
 (via intégration de balise html et/ou suivi et acitvation des différents tokens requis.)  
 
 
